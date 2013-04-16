@@ -1,6 +1,7 @@
 {
 	"common": {
-		"term_truecolor": false,
+		"term_truecolor": true,
+    "additional_escapes": "tmux",
 		"dividers": {
 			"left": {
 				"hard": " ",
@@ -32,7 +33,7 @@
 			"theme": "default"
 		},
 		"vim": {
-			"colorscheme": "default",
+			"colorscheme": "solarized-light",
 			"theme": "default",
 			"local_themes": {
 				"cmdwin": "cmdwin",
